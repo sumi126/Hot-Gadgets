@@ -1,0 +1,52 @@
+.container{
+    margin: 30px;
+    padding-left:150px;
+    padding-bottom: 100px;
+    
+}
+
+.btn-bg{
+    background-color:black;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: none;
+}
+p{
+    color:grey;
+}
+.bg1{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}bg2{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+}
+.card{
+    border: none;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.201);
+    padding: 50px;
+}
+.pad{
+    padding-bottom: 50px;
+    margin: 10px;
+}
+hr{
+    width: 9%;
+    background-image: linear-gradient(to right ,red , #df4453);
+    margin: auto;
+    height: 8px;
+    border-radius: 15px;
+}
+.item{
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.201);
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+    padding: 30px;
+}
+.cat1,.cat2{
+    margin: 50px 0;
+    
+}
